@@ -10,9 +10,11 @@
  * socket networking
 
 ## ScreenShot of project
-![server](./images/server.png)
-![login](./images/login.png)
-![mainpg](./images/mainpg.png)
+![Algorithm schema](./images/server.png)
+
+![Algorithm schema](./images/login.png)
+
+![Algorithm schema](./images/mainpg.png)
 
 ## Setup
  To run this project, install it locally using cmd:
