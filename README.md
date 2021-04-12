@@ -17,6 +17,9 @@
 #### MAIN PAGE
 ![mainpg schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/mainpg.PNG)
 
+## Database
+![database schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/database.PNG)
+
 ## Setup
  To run this project, install it locally using cmd:
 
