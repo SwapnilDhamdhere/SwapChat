@@ -10,16 +10,16 @@
  * socket networking
 
 ## ScreenShot of project
-![server](./screenshot/server.png)
-![login](./screenshot/login.png)
-![mainpg](./screenshot/mainpg.png)
+![server](./images/server.png)
+![login](./images/login.png)
+![mainpg](./images/mainpg.png)
 
 ## Setup
  To run this project, install it locally using cmd:
 
 ```
-cd ..\SwapChat_1\build\classes\chatserver
-..\SwapChat_1\build\classes\chatserver> java mainpg
-cd ..\SwapChat_1\build\classes\swapchat
-..\SwapChat_1\build\classes\swapchat> java LoginPage
+cd ..\SwapChat\build\classes\chatserver
+..\SwapChat\build\classes\chatserver> java mainpg
+cd ..\SwapChat\build\classes\swapchat
+..\SwapChat\build\classes\swapchat> java LoginPage
 ```
