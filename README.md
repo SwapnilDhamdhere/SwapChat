@@ -10,10 +10,11 @@
  * socket networking
 
 ## ScreenShot of project
+#### SERVER
 ![server schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/server.PNG)
-
+#### LOGIN
 ![login schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/login.PNG)
-
+#### MAIN PAGE
 ![mainpg schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/mainpg.PNG)
 
 ## Setup
