@@ -1,6 +1,13 @@
 # Swapchat
  Simple chat application (client & server) create with java and socket networking
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [ScreenShot of project](#screenShot-of-project)
+* [Database](#database)
+* [Setup](#setup)
+
 ## General info
  Our chat server used a socket networking program to exchange chat between client to client vice versa client to server. It’s a simple user interface and quick access. This app authenticates username and password and provides a secure interface. It’s needed to have network connectivity between server and client. Simple lite application.
 
