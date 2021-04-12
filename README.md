@@ -10,11 +10,11 @@
  * socket networking
 
 ## ScreenShot of project
-![Algorithm schema](./images/server.png)
+![server schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/server.PNG)
 
-![Algorithm schema](./images/login.png)
+![login schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/login.PNG)
 
-![Algorithm schema](./images/mainpg.png)
+![mainpg schema](https://github.com/SwapnilDhamdhere/Swapchat/blob/main/images/mainpg.PNG)
 
 ## Setup
  To run this project, install it locally using cmd:
